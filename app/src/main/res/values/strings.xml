@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aston_Intensive_3</string>
+    <string name="res"><![CDATA[https://images.unsplash.com/photo-1573057454928-f6eda06245ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bm8lMjBjb3B5cmlnaHR8ZW58MHx8MHx8&w=1000&q=80]]></string>
+    <string name="url">Введите URL...</string>
+    <string name="cataas">https://cataas.com/c</string>
+    <string name="image">Image</string>
+</resources>
